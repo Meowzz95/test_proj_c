@@ -4,4 +4,5 @@ type C struct {
 	FieldPotato string
 	FieldTomato string
 	Field3      string
+	Field4      string
 }
